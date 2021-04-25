@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ppd-mtp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ppd-mtp/static/js/main.9a773be1.chunk.js",
+    "main.js.map": "/ppd-mtp/static/js/main.9a773be1.chunk.js.map",
+    "runtime-main.js": "/ppd-mtp/static/js/runtime-main.b6899cc8.js",
+    "runtime-main.js.map": "/ppd-mtp/static/js/runtime-main.b6899cc8.js.map",
+    "static/js/2.1b1a3f6a.chunk.js": "/ppd-mtp/static/js/2.1b1a3f6a.chunk.js",
+    "static/js/2.1b1a3f6a.chunk.js.map": "/ppd-mtp/static/js/2.1b1a3f6a.chunk.js.map",
+    "static/js/3.2036f45a.chunk.js": "/ppd-mtp/static/js/3.2036f45a.chunk.js",
+    "static/js/3.2036f45a.chunk.js.map": "/ppd-mtp/static/js/3.2036f45a.chunk.js.map",
+    "index.html": "/ppd-mtp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ppd-mtp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1b1a3f6a.chunk.js.LICENSE.txt": "/ppd-mtp/static/js/2.1b1a3f6a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ppd-mtp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6899cc8.js",
+    "static/js/2.1b1a3f6a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9a773be1.chunk.js"
+  ]
+}
